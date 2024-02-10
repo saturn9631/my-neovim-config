@@ -1,0 +1,7 @@
+Errors:
+1.File grep in telescope goes to its own a random init file (probably part of telescope).
+2.Neovim cannot access system clipboard.
+
+Quality of life:
+1.Null-ls lsp-config and autocompletion should be in the same lua file.
+2.Find a way to make lsp-config and null-ls auto load from mason.
